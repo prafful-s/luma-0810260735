@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/pbakliwal/nike-data-content-demo/language-masters/en:/",
+    "/content/pbakliwal/nike-data-content-demo/language-masters/en/:/en/",
+    "/content/pbakliwal/nike-data-content-demo/configuration:/.helix/config.json",
+    "/content/pbakliwal/nike-data-content-demo/metadata:/metadata.json",
+    "/content/pbakliwal/nike-data-content-demo/redirects:/redirects.json",
+    "/content/pbakliwal/nike-data-content-demo/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/pbakliwal/nike-data-content-demo/",
+    "/content/dam/pbakliwal/nike-data-content-demo/"
   ]
 }
